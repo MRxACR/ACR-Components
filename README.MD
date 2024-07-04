@@ -1,5 +1,5 @@
 # ACR COMPONENTS LIBRARBY
-This library contains my oun created component in altium designer.
+This library contains my own created components in altium designer.
 
 ## List of components
 - XL6009
